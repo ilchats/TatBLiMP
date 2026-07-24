@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "TatBLiMP: A Benchmark of Linguistic Minimal Pairs for Tatar"
+authors:
+  - family-names: Saetov
+    given-names: Ilshat
+  - family-names: Gaynullin
+    given-names: Dmitry
+version: "1.0"
+date-released: 2026-06-19
+license: CC-BY-NC-4.0
+url: "https://huggingface.co/datasets/ilchats/TatBLiMP"
+repository-code: "https://github.com/ilchats/TatBLiMP"

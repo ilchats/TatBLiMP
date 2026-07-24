@@ -1,0 +1,7 @@
+name: TatBLiMP
+task: linguistic-minimal-pairs
+language: tt
+script: Cyrillic
+license: cc-by-nc-4.0
+file: test.jsonl
+usage: load_dataset("ilchats/TatBLiMP")
