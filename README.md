@@ -21,6 +21,8 @@ tags:
 
 # TatBLiMP, a Tatar Benchmark of Linguistic Minimal Pairs
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.20832-b31b1b.svg)](https://arxiv.org/abs/2609.20832)
+
 > The current release is version 1.0 (2026-06-19). It covers 16 phenomena across 1248 ratified pairs, with md5 `7659770f`. Fifteen phenomena are adapted from TurBLiMP and one is specific to Tatar. The data file is `test.jsonl`, one pair per line.
 
 ## Summary
@@ -107,11 +109,14 @@ The dataset is released under CC BY-NC 4.0. It is free to use, share and adapt f
 ## Citation
 
 ```bibtex
-@misc{tatblimp2026,
-  title  = {TatBLiMP: A Benchmark of Linguistic Minimal Pairs for Tatar},
-  author = {Ilshat Saetov, Dmitry Gaynullin},
-  year   = {2026},
-  url    = {https://huggingface.co/datasets/ilchats/TatBLiMP}
+@misc{saetov2026tatblimp,
+  title         = {TatBLiMP: A Benchmark of Linguistic Minimal Pairs for Tatar},
+  author        = {Ilshat Saetov and Dmitry Gaynullin},
+  year          = {2026},
+  eprint        = {2609.20832},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2609.20832}
 }
 ```
 
